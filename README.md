@@ -80,15 +80,9 @@ const userFullname: string = "Travuchka Myravuchka Travka";
   <a href="https://t.me/travuchka_myravuchka">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/travuchka_myravuchka">
+    <img src="https://img.shields.io/badge/Discord-Travuchka%234209-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andrii-Kramarenko-1&color=4FC08D&style=for-the-badge&label=VISITORS" alt="Profile views" />
 </p>
 
 <p align="center">
