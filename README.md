@@ -1,13 +1,25 @@
-<h1 align="center">🐸 Travuchka Myravuchka 🌱</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0761eeb-c43a-4b4d-a674-7c73b393e309" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Travuchka!+%F0%9F%90%B8;Frontend+Developer+%F0%9F%87%BA%F0%9F%87%A6;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Frontend Developer from Ukraine 🇺🇦</b><br>
-  20 y.o. • Learning Modern Web Development 🚀
+  <img src="https://img.shields.io/badge/Age-20-4FC08D?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Experience-1_Year-4FC08D?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Location-Ukraine-4FC08D?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Status-Student-4FC08D?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Favorite-JS_|_TS_|_Python-4FC08D?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/OS-Windows-4FC08D?style=flat-square&labelColor=1a1b27" />
 </p>
 
 ---
 
-### .🔎. Technology Stack:
+### .🔎. Technologys Stack:
+
 ```typescript
 interface Information {
   technologies: string[];
@@ -26,33 +38,61 @@ const userFullname: string = "Travuchka Myravuchka Travka";
 
 ---
 
-### .📗. About Me:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=435&lines=What+I+know:+%F0%9F%90%B8" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,vite,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+### .📗. Information about Me:
 
 **Information:** Hello, here is some information about me and programming! I am a beginner programmer who is learning and mastering various technologies in order to use them in a wide range of areas. Currently, I am learning/knowing: **HTML, CSS, SCSS, JavaScript, TypeScript, Vue, Vite.** 🎍
 
 ---
 
-### 🌱 Quick Facts:
+### .🌱. Intresting Facts:
 
-- .1. 🌳 ➜ Currently working on: **Pet projects** 
-- .2. 🪲 ➜ Learning: **Vue.js, TypeScript, CSS, other...**
-- .3. 🌳 ➜ Hobbies: **Minecraft, Terraria, Mindustry**
-- .4. 🪲 ➜ Music: **Lady Gaga, Madonna, Eminem**
-- .5. 🌳 ➜ Ask me about: **Frontend development, HTML/CSS/JS**
-- .6. 🪲 ➜ Reach me: **[@travuchka_myravuchka](https://t.me/travuchka_myravuchka)**
-- .7. 🌳 ➜ Motto: *"Life is like programming — mistakes happen, fix them"* 🧩
+- **🌳** ➜ Currently working on: **Pet projects** 
+
+- **🪲** ➜ Learning: **Vue.js, TypeScript, CSS, other...**
+
+- **🌳** ➜ Hobbies: **Minecraft, Terraria, Mindustry**
+
+- **🪲** ➜ Music: **Lady Gaga, Madonna, Eminem**
+
+- **🌳** ➜ Reach me: **[@travuchka_myravuchka](https://t.me/travuchka_myravuchka)**
+
+- **🪲** ➜ Languages: **Ukrainian, English**
+
+- **🌳** ➜ Motto: *"Life is like programming — mistakes happen, fix them"* 🧩
+
+
 
 ---
 
-### .🖍️. Connect: 
+### .🖍️. Connect with me: 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/travuchka_myravuchka)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+<p align="center">
+  <a href="https://t.me/travuchka_myravuchka">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andrii-Kramarenko-1&color=green" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Andrii-Kramarenko-1&color=4FC08D&style=for-the-badge&label=VISITORS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC08D&height=100&section=footer" />
 </p>
 
 <p align="center">🐸 <i>Thanks for stopping by! Happy coding!</i> 🌿</p>
